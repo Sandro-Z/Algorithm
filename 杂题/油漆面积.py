@@ -11,4 +11,3 @@ for k in range(n):
 			if (i,j) not in vis:
 				sum+=1
 				vis.add((i,j))
-print(sum)
